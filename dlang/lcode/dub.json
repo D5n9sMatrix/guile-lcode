@@ -1,0 +1,6 @@
+{
+    "name": "lcode",
+    "targetName": "lcode",
+    "targetType": "executable",
+    "targetPath": "bin"
+}
